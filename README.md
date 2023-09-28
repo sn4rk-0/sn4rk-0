@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hola , yo soy Mr Unknown010 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Linux+es+mi+lienzo+;y+la+terminal+es+mi+pincel"></a>
+</p>
 
-<!--
-**mrUnknown010/mrUnknown010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=mrUnknown010&label=Vistas%20de%20perfil&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align = "center">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?quote=Cualquier%20producto%20que%20necesite%20un%20manual%20para%20funcionar%20está%20roto&type=vertical&theme=nord&animation=grow_out_in&author=Elon%20Musk">
+</p>
