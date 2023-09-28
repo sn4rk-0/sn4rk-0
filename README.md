@@ -4,8 +4,9 @@
 </p>
 
 <br>
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
----
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
+
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=mrUnknown010&label=Vistas%20de%20perfil&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
 </p>
